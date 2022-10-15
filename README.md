@@ -1,7 +1,9 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 20%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 40%" />
 </div>  
+
 <div align="center"> I'm Amina DAHMOUNI</div>  
+
 - 🖥️ Full stack Java JEE developer  
   
 - ✉️ aminadahmouni11@gmail.Com  
