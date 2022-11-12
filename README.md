@@ -4,9 +4,9 @@
 
 <div align="center"> I'm Amina DAHMOUNI</div>  
 
-- 🖥️ Full stack Java JEE developer  
+- 🖥️ Software engineer  
   
-- ✉️ aminadahmouni11@gmail.Com  
+- ✉️ aminadahmouni11@gmail.com  
   
 - 🔗 https://www.linkedin.com/in/amina-dahmouni   
 
